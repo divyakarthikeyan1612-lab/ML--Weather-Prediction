@@ -138,3 +138,4 @@ RegisterNumber:  212225040084
 
 
 ## Result:
+The Random Forest model successfully predicted temperature, PM2.5 levels, and solar energy from environmental sensor data with good accuracy.
