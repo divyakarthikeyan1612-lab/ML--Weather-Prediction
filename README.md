@@ -3,18 +3,20 @@
 To write a program to predict daily temperature , PM2.5 pollution level and Energy based on environmental sensor data using Random Forest Algorithm.
 
 ## Problem Statement and Dataset
-
-
+To develop a machine learning model using the Random Forest algorithm to predict daily temperature, PM2.5 pollution level, and solar energy using environmental sensor data.
+The dataset contains time-based environmental sensor readings collected from a weather station.
+It includes features like temperature, humidity, pressure, wind speed, illumination, CO₂ level, PM2.5, and solar radiation, which are used to predict weather and air quality conditions.
 
 ## Equipments Required:
 1. Hardware – PCs
 2. Anaconda – Python 3.7 Installation / Jupyter notebook
 
 ## Algorithm
-1. 
-2. 
-3. 
-4. 
+1. Import required Python libraries and load the environmental sensor dataset.
+2. Preprocess data by sorting time values and filling missing entries.
+3. Create time-based and lag features, then select important input features.
+4. Split data into training and testing sets and train the Random Forest model.
+5. Predict temperature, PM2.5, and energy values and evaluate model performance. 
 
 ## Program:
 ```
